@@ -24,4 +24,8 @@ Technologies we plan on using for "Corponector":
 ## Example enhancements
 
 ## Team
-* [Amy Shin](https://tlsdbfla00.github.io/).
+* [Amy Shin](https://tlsdbfla00.github.io/)
+* [Alexis Karl Buted]()
+* [Alessandra Gudoy](https://alessandra-gudoy.github.io/)
+* [Blake Ilagan]()
+* [Justine Ponce](https://justonepg.github.io/JustinePonce.github.io/)
