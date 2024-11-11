@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Approach](#Approach)
+* [Approach](#approach)
 * [User guide](#user-guide)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
