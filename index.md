@@ -94,6 +94,10 @@ The **Browse Companies and Users** page allows students and employers to filter 
 
 <img src="images/browse-page.png" /> 
 
+## Example Enhancements
+
+* Notifications via email and/or SMS.
+
 ## Team
 * [Amy Shin](https://tlsdbfla00.github.io/)
 * [Alexis Karl Buted](https://abuted.github.io/)
