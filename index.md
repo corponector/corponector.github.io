@@ -15,6 +15,8 @@ The Corponector web application provides a new way for local and non-local compa
 Technologies we plan on using for "Corponector":
 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
+* [Nextjs](https://nextjs.org/) to enhance the development process, particularly for full-stack applications. It adds additional tools for server-side rendering (SSR), static site generation (SSG), API routes, and more.
+* [PostgreSQL](https://postgresql.org/) to handle structured data with well-defined schemas and relationships between entities.
 
 ### Project Goals
 
