@@ -96,7 +96,8 @@ The **Browse Companies and Users** page allows students and employers to filter 
 
 ## Team
 * [Amy Shin](https://tlsdbfla00.github.io/)
-* [Alexis Karl Buted]()
+* [Alexis Karl Buted](https://abuted.github.io/)
 * [Alessandra Gudoy](https://alessandra-gudoy.github.io/)
 * [Blake Ilagan]()
 * [Justine Ponce](https://justonepg.github.io/JustinePonce.github.io/)
+
