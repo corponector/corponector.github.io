@@ -56,7 +56,7 @@ Here are some mockup designs to illustrate the planned structure and user experi
 
 On the **Landing Page**, users can easily sign in or register by clicking the  **"Log In"** or **"Sign Up"** buttons located at the top right corner. New users can register by providing basic information such as their name, email, and role (student or company), while returning users can simply enter their credentials to access their personalized dashboard and start browsing opportunities or managing job postings.
 
-<img src="images/landing-page.jpg">
+<img src="images/landing-page.png">
 
 ### Student Home Page
 
