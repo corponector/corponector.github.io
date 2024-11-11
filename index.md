@@ -56,43 +56,43 @@ Here are some mockup designs to illustrate the planned structure and user experi
 
 On the **Landing Page**, users can easily sign in or register by clicking the  **"Log In"** or **"Sign Up"** buttons located at the top right corner. New users can register by providing basic information such as their name, email, and role (student or company), while returning users can simply enter their credentials to access their personalized dashboard and start browsing opportunities or managing job postings.
 
-<img src="images/landing-page.png">
+<img src="images/landing-page.png" />
 
 ### Student Home Page
 
 The **Student Home Page** displays job opportunities tailored to a student's skills, interests, and preferred locations, allowing them to browse and apply for internships and positions. Students can update their profiles to showcase their qualifications and increase their chances of matching with potential employers.
 
-<img src="images/student-page.png">
+<img src="images/student-page.png" />
 
 ### Company Home Page
 
 The **Company Home Page** allows companies to manage their job postings and view candidates who match their required skills and location preferences. Companies can send messages to potential hires, update job listings, and track engagement with student profiles to find the best talent for their positions.
 
-<img src="images/company-page.png">
+<img src="images/company-page.png" />
 
 ### Admin Home Page
 
 The **Admin Home Page** provides a centralized dashboard for managing job postings, user accounts, and ensuring content moderation across the platform. Admins can generate analytics and reports, manage categories and settings, and monitor site activity to maintain a smooth and organized user experience.
 
-<img src="images/admin-page.png">
+<img src="images/admin-page.png" />
 
 ### Student Profile Page
 
 The **Student Profile Page** allows students to showcase their skills, interests, and professional experience, including a link to their portfolio. It provides a personalized view of their qualifications, making it easier for companies to find and connect with them for relevant job opportunities.
 
-<img src="images/student-profile.png">
+<img src="images/student-profile.png" />
 
 ### Company Profile Page
 
 The **Company Profile Page** showcases the company’s details, including an overview, location, job postings, and key contact information. Companies can update their profile, manage available positions, and track engagement with student applicants to attract the right talent.
 
-<img src="images/company-profile.png">
+<img src="images/company-profile.png" />
 
 ### Browse Companies and Users
 
 The **Browse Companies and Users** page allows students and employers to filter and search for companies and candidates based on specific criteria such as skills, geographic location, and job type. This feature helps users easily find matches that align with their professional interests or hiring needs.
 
-<img src="images/browse-page.png"> 
+<img src="images/browse-page.png" /> 
 
 ## Team
 * [Amy Shin](https://tlsdbfla00.github.io/)
