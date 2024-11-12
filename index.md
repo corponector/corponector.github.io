@@ -5,7 +5,7 @@
 * [User guide](#user-guide)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
-* [Team Contract](https://docs.google.com/document/d/1MjatDBetUF2S13ewZnPrmrwbtz-P3T6gPSgwcZZgUh4/edit?usp=sharing)
+* [Team Contract](#team-contract)
 
 ## Overview
 
@@ -108,4 +108,8 @@ The **Browse Companies and Users** page allows students and employers to filter 
 * [Blake Ilagan]()
 * [Justine Ponce](https://justonepg.github.io/JustinePonce.github.io/)
 
+## Team Contract
+<a href="https://docs.google.com/document/d/1MjatDBetUF2S13ewZnPrmrwbtz-P3T6gPSgwcZZgUh4/edit?usp=sharing">
+  <img src="images/United_States_Declaration_of_Independence.jpg">
+</a>
 
