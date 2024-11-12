@@ -5,6 +5,7 @@
 * [User guide](#user-guide)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
+* [Team Contract](https://docs.google.com/document/d/1MjatDBetUF2S13ewZnPrmrwbtz-P3T6gPSgwcZZgUh4/edit?usp=sharing)
 
 ## Overview
 
@@ -106,4 +107,5 @@ The **Browse Companies and Users** page allows students and employers to filter 
 * [Alessandra Gudoy](https://alessandra-gudoy.github.io/)
 * [Blake Ilagan]()
 * [Justine Ponce](https://justonepg.github.io/JustinePonce.github.io/)
+
 
