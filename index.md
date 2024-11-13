@@ -115,5 +115,5 @@ The **Browse Companies and Users** page allows students and employers to filter 
 </a>
 
 ## Milestone
-*[Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
+* [Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
 
