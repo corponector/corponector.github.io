@@ -6,6 +6,7 @@
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
 * [Team Contract](#team-contract)
+* [Milestone](#milestone)
 
 ## Overview
 
@@ -112,4 +113,7 @@ The **Browse Companies and Users** page allows students and employers to filter 
 <a href="https://docs.google.com/document/d/1MjatDBetUF2S13ewZnPrmrwbtz-P3T6gPSgwcZZgUh4/edit?usp=sharing">
   <img src="images/United_States_Declaration_of_Independence.jpg">
 </a>
+
+## Milestone
+*[Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
 
