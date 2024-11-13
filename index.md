@@ -105,7 +105,7 @@ The **Browse Companies and Users** page allows students and employers to filter 
 * [Amy Shin](https://tlsdbfla00.github.io/)
 * [Alexis Karl Buted](https://abuted.github.io/)
 * [Alessandra Gudoy](https://alessandra-gudoy.github.io/)
-* [Blake Ilagan]()
+* [Blake Ilagan](blake25@hawaii.edu)
 * [Justine Ponce](https://justonepg.github.io/JustinePonce.github.io/)
 
 ## Team Contract
