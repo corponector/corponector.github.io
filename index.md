@@ -117,7 +117,7 @@ The **Browse Companies and Users** page allows students and employers to filter 
 
 ## Milestone
 * [Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
-* [Milestone 2]
+* [Milestone 2](https://github.com/orgs/corponector/projects/1/views/3)
 
 ## Deployment
 * [Vercel](https://source-code-tau.vercel.app/)
