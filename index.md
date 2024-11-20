@@ -7,6 +7,7 @@
 * [Team](#team)
 * [Team Contract](#team-contract)
 * [Milestone](#milestone)
+* [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
 * [Deployment](#deployment)
 
 ## Overview
@@ -63,15 +64,19 @@ On the **Landing Page**, users can easily sign in or register by clicking the  *
 
 <img src="images/landing-page.png" />
 
-### Student Home Page
+### Student Home/Profile Page
 
 The **Student Home Page** displays job opportunities tailored to a student's skills, interests, and preferred locations, allowing them to browse and apply for internships and positions. Students can update their profiles to showcase their qualifications and increase their chances of matching with potential employers.
 
-<img src="images/student-page.png" />
+It also allows students to showcase their skills, interests, and professional experience, including a link to their portfolio. It provides a personalized view of their qualifications, making it easier for companies to find and connect with them for relevant job opportunities.
 
-### Company Home Page
+<img src="images/student-profile.png" />
+
+### Company Home/Profile Page
 
 The **Company Home Page** allows companies to manage their job postings and view candidates who match their required skills and location preferences. Companies can send messages to potential hires, update job listings, and track engagement with student profiles to find the best talent for their positions.
+
+It showcases the company’s details, including an overview, location, job postings, and key contact information. Companies can update their profile, manage available positions, and track engagement with student applicants to attract the right talent.
 
 <img src="images/company-page.png" />
 
@@ -81,17 +86,6 @@ The **Admin Home Page** provides a centralized dashboard for managing job postin
 
 <img src="images/admin-page.png" />
 
-### Student Profile Page
-
-The **Student Profile Page** allows students to showcase their skills, interests, and professional experience, including a link to their portfolio. It provides a personalized view of their qualifications, making it easier for companies to find and connect with them for relevant job opportunities.
-
-<img src="images/student-profile.png" />
-
-### Company Profile Page
-
-The **Company Profile Page** showcases the company’s details, including an overview, location, job postings, and key contact information. Companies can update their profile, manage available positions, and track engagement with student applicants to attract the right talent.
-
-<img src="images/company-profile.png" />
 
 ### Browse Companies and Users
 
@@ -119,6 +113,25 @@ The **Browse Companies and Users** page allows students and employers to filter 
 * [Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
 * [Milestone 2](https://github.com/orgs/corponector/projects/3)
 
+## Milestone 1: Screenshots of Progress
+Landing Page:
+<img src="images/landing-progress.png" alt="landing page"/>
+
+Sign In Page:
+<img src="images/signin.png" alt="sign in page"/>
+
+Sign Up Page:
+<img src="images/signup.png" alt="sign up page"/>
+
+If registering a student profile:
+<img src="images/student-prof-form-progress.png" alt="student profile form page"/>
+
+If registering a company profile:
+<img src="images/company-form-progress.png" alt="company profile form page"/>
+
+Student Profile Page:
+<img src="images/student-profile-progress.png" alt="student profile page"/>
+
 ## Deployment
-* [Vercel](https://source-code-tau.vercel.app/)
+* [Vercel](https://corponector.vercel.app/)
 
