@@ -134,6 +134,10 @@ Student Profile Page:
 Search Page:
 <img src="images/browsehomepage.png"/>
 
+Company Home Page:
+<img src="images/company-page-progress1"/>
+<img src="images/company-page-progress2"/>
+
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
 
