@@ -97,7 +97,7 @@ The **Company Profile Page** showcases the company’s details, including an ove
 
 The **Browse Companies and Users** page allows students and employers to filter and search for companies and candidates based on specific criteria such as skills, geographic location, and job type. This feature helps users easily find matches that align with their professional interests or hiring needs.
 
-<img src="images/browse-page.png" /> 
+<img src="images/browsehomepage.png" /> 
 
 ## Example Enhancements
 
@@ -117,6 +117,7 @@ The **Browse Companies and Users** page allows students and employers to filter 
 
 ## Milestone
 * [Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
+* [Milestone 2]
 
 ## Deployment
 * [Vercel](https://source-code-tau.vercel.app/)
