@@ -84,8 +84,11 @@ It showcases the company’s details, including an overview, location, job posti
 
 The **Admin Home Page** provides a centralized dashboard for managing job postings, user accounts, and ensuring content moderation across the platform. Admins can generate analytics and reports, manage categories and settings, and monitor site activity to maintain a smooth and organized user experience.
 
-<img src="images/admin-page.png" />
-
+<img src="images/admin-dashboard.png" />
+<img src="images/admin-two.png" />
+<img src="images/admin-three.png" />
+<img src="images/admin-four.png" />
+<img src="images/admin-five.png" />
 
 ### Browse Companies and Users
 
