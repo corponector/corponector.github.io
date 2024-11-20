@@ -118,10 +118,10 @@ Landing Page:
 <img src="images/landing-progress.png" alt="landing page"/>
 
 Sign In Page:
-<img src="images/signin.png" alt="sign in page"/>
+<img src="images/signin-progress.png" alt="sign in page"/>
 
 Sign Up Page:
-<img src="images/signup.png" alt="sign up page"/>
+<img src="images/signup-progress.png" alt="sign up page"/>
 
 If registering a student profile:
 <img src="images/student-prof-form-progress.png" alt="student profile form page"/>
