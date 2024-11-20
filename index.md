@@ -135,8 +135,8 @@ Search Page:
 <img src="images/browsehomepage.png"/>
 
 Company Home Page:
-<img src="images/company-page-progress1"/>
-<img src="images/company-page-progress2"/>
+<img src="images/company-page-progress1.png"/>
+<img src="images/company-page-progress2.png"/>
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
