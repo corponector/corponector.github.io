@@ -132,7 +132,7 @@ Student Profile Page:
 <img src="images/student-profile-progress.png" alt="student profile page"/>
 
 Search Page:
-<img src="images/browsehomepage.png"/>
+<img src="images/browsehomepage.png" />
 
 Company Home Page:
 <img src="images/company-page-progress1.png"/>
