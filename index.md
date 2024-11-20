@@ -94,8 +94,7 @@ The **Admin Home Page** provides a centralized dashboard for managing job postin
 
 The **Browse Companies and Users** page allows students and employers to filter and search for companies and candidates based on specific criteria such as skills, geographic location, and job type. This feature helps users easily find matches that align with their professional interests or hiring needs.
 
-<img src="images/browsehomepage.png" /> 
-
+<img src="images/browse-page.png" /> 
 ## Example Enhancements
 
 * Notifications via email and/or SMS.
@@ -134,6 +133,13 @@ If registering a company profile:
 
 Student Profile Page:
 <img src="images/student-profile-progress.png" alt="student profile page"/>
+
+Search Page:
+<img src="images/browsehomepage.png" />
+
+Company Home Page:
+<img src="images/company-page-progress1.png"/>
+<img src="images/company-page-progress2.png"/>
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
