@@ -151,6 +151,9 @@ Landing Page:
 <img src="images/new-landing.png" />
 <img src="images/new-landing2.png" />
 
+Search Page:
+<img src="images/new-search.png" />
+
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
 
