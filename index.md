@@ -138,12 +138,17 @@ Company Home Page:
 <img src="images/company-page-progress1.png"/>
 <img src="images/company-page-progress2.png"/>
 
-admin dashboard:
+Admin Dashboard:
 <img src="images/admin-dashboard.png" />
 <img src="images/admin-two.png" />
 <img src="images/admin-three.png" />
 <img src="images/admin-four.png" />
 <img src="images/admin-five.png" />
+
+## Milestone 2: Screenshots of Progress
+
+Landing Page:
+
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
