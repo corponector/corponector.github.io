@@ -155,6 +155,12 @@ Landing Page:
 Add Company Page:
 <img src="images/new-addcompanypage.png" />
 
+Student Profile Page:
+<img src="images/student-page-milestone2.png"/>
+
+Edit Student Profile Page:
+<img src="images/edit-student.png"/>
+
 Search Page:
 <img src="images/new-searchpage-1.png" />
 <img src="images/new-searchpage-2.png" />
