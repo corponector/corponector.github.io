@@ -151,8 +151,13 @@ Landing Page:
 <img src="images/new-landing.png" />
 <img src="images/new-landing2.png" />
 
+Add Company Page:
+<img src="images/new-addcompanypage.png" />
+
 Search Page:
-<img src="images/new-search.png" />
+<img src="images/new-searchpage-1.png" />
+<img src="images/new-searchpage-2.png" />
+
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
