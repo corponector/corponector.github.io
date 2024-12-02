@@ -8,6 +8,7 @@
 * [Team Contract](#team-contract)
 * [Milestone](#milestone)
 * [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
+* [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 * [Deployment](#deployment)
 
 ## Overview
