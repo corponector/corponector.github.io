@@ -109,7 +109,7 @@ The **Browse Companies and Users** page allows students and employers to filter 
 
 ## Milestone
 * [Milestone 1](https://github.com/orgs/corponector/projects/1/views/1)
-* [Milestone 2](https://github.com/orgs/corponector/projects/3)
+* [Milestone 2](https://github.com/orgs/corponector/projects/6)
 * [Milestone 3](https://github.com/orgs/corponector/projects/5/views/1)
 
 ## Milestone 1: Screenshots of Progress
