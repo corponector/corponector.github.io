@@ -148,7 +148,8 @@ Admin Dashboard:
 ## Milestone 2: Screenshots of Progress
 
 Landing Page:
-
+<img src="images/new-landing.png" />
+<img src="images/new-landing2.png" />
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
