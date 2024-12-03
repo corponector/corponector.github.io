@@ -186,6 +186,8 @@ Learn more about our goal and a link to the sign-up page. The navigation bar inc
 
 Add Company Page:
 <img src="images/new-addcompanypage.png" />
+<img src="images/company11.png" />
+<img src="images/company22.png" />
 Add Company information to our database and can create as many positions you want.
 
 Student Profile Page:
