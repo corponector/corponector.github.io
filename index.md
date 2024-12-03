@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [User guide](#user-guide)
+* [Developer guide](#developer-guide)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
 * [Team Contract](#team-contract)
@@ -92,6 +93,20 @@ The **Admin Home Page** provides a centralized dashboard for managing job postin
 The **Browse Companies and Users** page allows students and employers to filter and search for companies and candidates based on specific criteria such as skills, geographic location, and job type. This feature helps users easily find matches that align with their professional interests or hiring needs.
 
 <img src="images/browse-page.png" /> 
+
+### Developer guide
+
+Here is our guide for developers to help with the process of downloading, installing, running, and modifying the system.
+
+## Download
+
+You should **Download** VSCode or any source code editor with a built-in terminal. Download 
+PgAdmin or any platform that manages PostgreSQL. 
+
+## Install
+
+To **Install** our source code, you must first clone the repository to your system using your preferred source-code editor. 
+
 ## Example Enhancements
 
 * Notifications via email and/or SMS.
