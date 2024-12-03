@@ -118,7 +118,7 @@ To create Database
    postgresql://<username>:<password>@localhost:5432/digits?schema=public.
 4) Migrate the database by running the command 'npx prisma migrate dev'. This will create the tables in the Corponector database.
 5) Seed the database by running the command 'npx prisma db seed'. This will populate the tables with some sample data.
-6) Start Next.js using 'npm run dev', and check http://localhost:3000 (and the console) to ensure that the new landing page displays correctly.
+6) Start Next.js using 'npm run dev', and check "http://localhost:3000" (and the console) to ensure that the new landing page displays correctly.
 
 ### Modify
 To **Modify** open use your preferred code editor, in our case VsCode. Client-side code files are stored in the src/component folder. They handle user interactions like clicks and form submissions. The server side will be in the src/app folders. Server-side code processes requests, interacts with databases, and generates HTML to send to the client.
