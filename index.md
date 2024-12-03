@@ -111,11 +111,11 @@ To **Install** our source code, you must first clone the repository to your syst
 <img src="images/clone.png" /> 
 
 To create Database
-1. Open a Terminal window in VSCode and run the command 'createdb -U <User> Corponector'. 
+1. Open a Terminal window in VSCode and run the command 'createdb -U User Corponector'. 
    This will create your Database
 2. Copy the 'sample.env' file to a new file called '.env'.
 3. Edit the .env file to set the DATABASE_URL to
-   postgresql://<username>:<password>@localhost:5432/digits?schema=public.
+   postgresql://username:password@localhost:5432/Corponector?schema=public.
 4. Migrate the database by running the command 'npx prisma migrate dev'. This will create the tables in the Corponector database.
 5. Seed the database by running the command 'npx prisma db seed'. This will populate the tables with some sample data.
 6. Start Next.js using 'npm run dev', and check "http://localhost:3000" (and the console) to ensure that the new landing page displays correctly.
