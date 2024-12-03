@@ -190,7 +190,7 @@ Add Company information to our database and can create as many positions you wan
 
 Student Profile Page:
 <img src="images/student-page-milestone2.png"/>
-Profile for the current student user, displaying their skills and recommended companies. Also a link to the edit student page.
+Profile for the current student user, displaying their skills and recommended companies. Also a link to the edit student page. It reads from our database.
 
 Edit Student Profile Page:
 <img src="images/edit-student.png"/>
@@ -199,7 +199,7 @@ Edits student information
 Search Page:
 <img src="images/new-searchpage-1.png" />
 <img src="images/new-searchpage-2.png" />
-Can search student and company names. Can filter out Students or Companies. Can use tags to only include students and companies with specific skills, locations, and positions.
+Can search student and company names. Can filter out Students or Companies. Can use tags to only include students and companies with specific skills, locations, and positions. Student Card shows their name, picture, skills, and a link. Company Card shows their name, overview, email, links, and positions which include the title, description, skills, number of hires, and salary range. It reads from our database.
 
 
 ## Deployment
