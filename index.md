@@ -58,7 +58,7 @@ After logging in, users will have access to personalized home pages where they c
 
 ## User guide
 
-Here are some mockup designs to illustrate the planned structure and user experience of the **Corponector** platform. 
+Here are some mockup designs to illustrate the planned structure and user experience of the **Corponector** platform. Our latest progress can be found in the Milestone 2 Progress.
 
 ### Landing Page
 
@@ -182,19 +182,24 @@ Admin Dashboard:
 Landing Page:
 <img src="images/new-landing.png" />
 <img src="images/new-landing2.png" />
+Learn more about our goal and a link to the sign-up page. The navigation bar includes our Homepage, Search page, and email.
 
 Add Company Page:
 <img src="images/new-addcompanypage.png" />
+Add Company information to our database and can create as many positions you want.
 
 Student Profile Page:
 <img src="images/student-page-milestone2.png"/>
+Profile for the current student user, displaying their skills and recommended companies. Also a link to the edit student page.
 
 Edit Student Profile Page:
 <img src="images/edit-student.png"/>
+Edits student information
 
 Search Page:
 <img src="images/new-searchpage-1.png" />
 <img src="images/new-searchpage-2.png" />
+Can search student and company names. Can filter out Students or Companies. Can use tags to only include students and companies with specific skills, locations, and positions.
 
 
 ## Deployment
