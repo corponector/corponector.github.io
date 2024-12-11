@@ -215,6 +215,6 @@ Can search student and company names. Can filter out Students or Companies. Can 
 * [Vercel](https://corponector.vercel.app/)
 
 ## CI Status
-* ![ci-badge]https://github.com/corponector/sourceCode/badge.svg)
+* ![ci-badge](https://github.com/corponector/sourceCode/badge.svg)
 
 
