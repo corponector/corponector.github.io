@@ -2,14 +2,16 @@
 
 * [Overview](#overview)
 * [Approach](#approach)
-* [User guide](#user-guide)
-* [Developer guide](#developer-guide)
-* [Example enhancements](#example-enhancements)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+* [Example Enhancements](#example-enhancements)
 * [Team](#team)
 * [Team Contract](#team-contract)
 * [Milestone](#milestone)
 * [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
 * [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
+* [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
 * [Deployment](#deployment)
 
 ## Overview
@@ -94,7 +96,9 @@ The **Browse Companies and Users** page allows students and employers to filter 
 
 <img src="images/browse-page.png" /> 
 
-## Developer guide
+## Community Feedback
+
+## Developer Guide
 
 Here is our guide for developers to help with the process of downloading, installing, running, and modifying the system.
 
@@ -202,6 +206,8 @@ Search Page:
 <img src="images/new-searchpage-1.png" />
 <img src="images/new-searchpage-2.png" />
 Can search student and company names. Can filter out Students or Companies. Can use tags to only include students and companies with specific skills, locations, and positions. Student Card shows their name, picture, skills, and a link. Company Card shows their name, overview, email, links, and positions which include the title, description, skills, number of hires, and salary range. It reads from our database.
+
+## Milestone 3: Screenshots of Progress
 
 
 ## Deployment
