@@ -13,6 +13,7 @@
 * [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 * [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
 * [Deployment](#deployment)
+* [CI Status](#CI-Status)
 
 ## Overview
 
@@ -212,4 +213,8 @@ Can search student and company names. Can filter out Students or Companies. Can 
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
+
+## CI Status
+* ![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+
 
