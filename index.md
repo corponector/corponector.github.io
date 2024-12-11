@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/corponector/sourceCode/workflows/ci-corponector/badge.svg)
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -214,7 +216,5 @@ Can search student and company names. Can filter out Students or Companies. Can 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
 
-## CI Status
-* ![ci-badge](https://github.com/corponector/sourceCode/workflows/ci-corponector/badge.svg)
 
 
