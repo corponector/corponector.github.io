@@ -1,5 +1,3 @@
-![ci-badge](https://github.com/corponector/sourceCode/workflows/ci-corponector/badge.svg)
-
 ## Table of contents
 
 * [Overview](#overview)
@@ -15,7 +13,6 @@
 * [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 * [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
 * [Deployment](#deployment)
-* [CI Status](#CI-Status)
 
 ## Overview
 
@@ -28,6 +25,9 @@ Technologies we plan on using for "Corponector":
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Nextjs](https://nextjs.org/) to enhance the development process, particularly for full-stack applications. It adds additional tools for server-side rendering (SSR), static site generation (SSG), API routes, and more.
 * [PostgreSQL](https://postgresql.org/) to handle structured data with well-defined schemas and relationships between entities.
+
+* ![ci-badge](https://github.com/corponector/sourceCode/workflows/ci-corponector/badge.svg)
+
 
 ### Project Goals
 
