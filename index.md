@@ -215,6 +215,6 @@ Can search student and company names. Can filter out Students or Companies. Can 
 * [Vercel](https://corponector.vercel.app/)
 
 ## CI Status
-* ![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+* ![ci-badge](https://github.com/Corponector/sourceCode/badge.svg)
 
 
