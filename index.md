@@ -13,6 +13,7 @@
 * [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 * [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
 * [Deployment](#deployment)
+* [Review & Feedbacks](#review&feedback)
 
 ## Overview
 
@@ -215,6 +216,9 @@ Can search student and company names. Can filter out Students or Companies. Can 
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
+
+## Review & Feedbacks
+
 
 
 
