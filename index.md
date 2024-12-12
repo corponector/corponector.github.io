@@ -12,7 +12,7 @@
 * [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 * [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
 * [Deployment](#deployment)
-* [Review & Feedbacks](#review&feedbacks)
+* [Review & Feedbacks](#review-&-feedbacks)
 
 ## Overview
 
