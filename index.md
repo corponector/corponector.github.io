@@ -218,5 +218,8 @@ Can search student and company names. Can filter out Students or Companies. Can 
 * Oscar Tio
 <img src="images/OscarFeedback.png"/>
 
+* Axel Buted
+<img src="images/AxelFeedback.png"/>
+
 
 
