@@ -12,7 +12,7 @@
 * [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 * [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
 * [Deployment](#deployment)
-* [Review & Feedbacks](#review-&-feedbacks)
+* [Review and Feedbacks](#review-and-feedbacks)
 
 ## Overview
 
@@ -214,7 +214,7 @@ Can search student and company names. Can filter out Students or Companies. Can 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
 
-## Review & Feedbacks
+## Review and Feedbacks
 * Oscar Tio
 <img src="images/OscarFeedback.png"/>
 
