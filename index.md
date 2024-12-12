@@ -218,7 +218,7 @@ Can search student and company names. Can filter out Students or Companies. Can 
 * [Vercel](https://corponector.vercel.app/)
 
 ## Review & Feedbacks
-Oscar Tio
+* Oscar Tio
 <img src="images/OscarFeedback.png"/>
 
 
