@@ -3,7 +3,6 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Example Enhancements](#example-enhancements)
 * [Team](#team)
@@ -99,8 +98,6 @@ The **Admin Home Page** provides a centralized dashboard for managing job postin
 The **Browse Companies and Users** page allows students and employers to filter and search for companies and candidates based on specific criteria such as skills, geographic location, and job type. This feature helps users easily find matches that align with their professional interests or hiring needs.
 
 <img src="images/browse-page.png" /> 
-
-## Community Feedback
 
 ## Developer Guide
 
