@@ -222,7 +222,7 @@ Can search student and company names. Can filter out Students or Companies. Can 
 <img src="images/rhea-feedback.png"/>
 
 * Mark Shin
-<img src="images/MarkFeedback.png"/>
+<img src="images/MarkFeedback.jpg"/>
 
 
 
