@@ -221,5 +221,10 @@ Can search student and company names. Can filter out Students or Companies. Can 
 * Rhea Mae Arellano
 <img src="images/rhea-feedback.png"/>
 
+* Mark Shin
+<img src="images/MarkFeedback.png"/>
+
+
+
 
 
