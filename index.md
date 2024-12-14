@@ -295,6 +295,9 @@ Additionally, they said that it is very useful in connecting students and compan
 * Kaitlyn
 <img src="images/feedback_k.png"/>
 
+* Camilla Nguyen 
+<img src="images/camFeedback.png"/>
+
 
 
 
