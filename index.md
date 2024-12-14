@@ -287,7 +287,7 @@ Additionally, they said that it is very useful in connecting students and compan
 <img src="images/MarkFeedback.jpg"/>
 
 * Kaitlyn
-<img src="images/feedback_k.jpg"/>
+<img src="images/feedback_k.png"/>
 
 
 
