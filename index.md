@@ -63,7 +63,13 @@ After logging in, users will have access to personalized home pages where they c
 
 ## User guide
 
-Here are some mockup designs to illustrate the planned structure and user experience of the **Corponector** platform. Our latest progress can be found in the Milestone 2 Progress.
+Here are some mockup designs to illustrate the planned structure and user experience of the **Corponector** platform. Our latest progress can be found in the <a href="#milestone-3-screenshots-of-progress">Milestone 3 Progress</a>.
+
+Currently, companies and students are able to sign up where they will be prompted to enter in an email and password (the sign up page). After indicating if they are a student or company, the application will take them to a form to fill out more information about their profile (Student/Company Form). After finishing up the sign in process, they will be redirected to their profile pages.
+
+On their profile pages, students will have a list of recommended companies while companies will have a list of recommened students. The information they have entered during the sign up process will also be displayed on the left side. Users will have an "Edit" button to change any of the information they have entered before, be it adding available positions to the company or changing skills the company is looking for or skills the student possesses.
+
+In addition to the recommended students and companies listed on their profile page, there is also a "Search" page which lists all the users on the Corponector app, including students and companies. Users are able to sort by students or company only and by location or skills. If they are looking for a specific student or company, they are also able to type in what/who they are searching for.
 
 ### Landing Page
 
