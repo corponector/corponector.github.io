@@ -221,7 +221,8 @@ Search Page:
 * Filter Students and Company
 * Tags include Location, Skills, and Positions
 * Includes Student and Company Cards with basic information
-* Clicking Cards will go the their profile
+* Clicking Cards will go to their profile
+* Search by Student or Company name
 
 Student Profile:
 <img src="images/M3studentprofile.png" />
