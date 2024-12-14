@@ -220,18 +220,19 @@ Search Page:
 <img src="images/M3searchpage-2.png" />
 * Filter Students and Company
 * Tags include Location, Skills, and Positions
-* Click Student or Company Cards to go to their profile
+* Includes Student and Company Cards with basic information
+* Clicking Cards will go the their profile
 
 Student Profile:
 <img src="images/M3studentprofile.png" />
-* Includes the student basic information
+* Includes the student's basic information
 
 Student Page:
 <img src="images/M3Currentstudentprofile.png" />
 
 * Include student basic information
 * User Student profile
-* Recommended Companies
+* Include Company Card for recommended Companies
 * Link to the edit page
 
 Edit Student Page:
@@ -249,7 +250,7 @@ Company Page:
 * Include company basic information
 * User Company Profile
 * Include Open positions for the company
-* REcommended Students
+* Include Student Card for recommended Companies
 * Link to edit page
 
 Edit Company Page:
