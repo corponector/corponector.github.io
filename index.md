@@ -211,7 +211,7 @@ Can search student and company names. Can filter out Students or Companies. Can 
 ## Milestone 3: Screenshots of Progress
 Landing Page:
 <img src="images/M3Landingpage-1.png" />
-<img src="images/M3Landingpage-2.png" />
+<img src="images/M3landingpage-2.png" />
 * Includes information about our goals
 * Link to our sign-up page
 
