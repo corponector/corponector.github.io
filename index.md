@@ -251,7 +251,7 @@ Company Page:
 * Include company basic information
 * User Company Profile
 * Include Open positions for the company
-* Include Student Card for recommended Companies
+* Include Student Card for recommended Students
 * Link to edit page
 
 Edit Company Page:
