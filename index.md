@@ -273,6 +273,10 @@ Admin Page:
 
 ## Review and Feedbacks
 
+Summarizing the reviews, they found that the Corponector app is simple and straightforward to use. However, it was pointed out that there needs to be an indication that the app is loading. For example, when submitting the profile information for the student, the users don't know that the app takes a few seconds to submit the data to the database, therefore, the user presses the button twice causing the entry to be pushed to the database twice.
+
+Additionally, they said that it is very useful in connecting students and companies. It was recommended that there should be more information about the students, such as GPA, and having a button to specify which company a student is interested in and show the companies which students are interested in the company.
+
 * Oscar Tio
 <img src="images/OscarFeedback.png"/>
 
