@@ -209,6 +209,68 @@ Search Page:
 Can search student and company names. Can filter out Students or Companies. Can use tags to only include students and companies with specific skills, locations, and positions. Student Card shows their name, picture, skills, and a link. Company Card shows their name, overview, email, links, and positions which include the title, description, skills, number of hires, and salary range. It reads from our database.
 
 ## Milestone 3: Screenshots of Progress
+Landing Page:
+<img src="images/M3Landingpage-1.png" />
+<img src="images/M3Landingpage-2.png" />
+* Includes information about our goals
+* Link to our sign-up page
+
+Search Page:
+<img src="images/M3Searchpage-1.png" />
+<img src="images/M3searchpage-2.png" />
+* Filter Students and Company
+* Tags include Location, Skills, and Positions
+* Click Student or Company Cards to go to their profile
+
+Student Profile:
+<img src="images/M3studentprofile.png" />
+* Includes the student basic information
+
+Student Page:
+<img src="images/M3Currentstudentprofile.png" />
+
+* Include student basic information
+* User Student profile
+* Recommended Companies
+* Link to the edit page
+
+Edit Student Page:
+<img src="images/M3editcurrentstudentprofile.png" />
+* Edit student information
+
+Company Profile:
+<img src="images/M3companyprofile.png" />
+* Include company basic information
+* Include Open positions for the company
+
+Company Page:
+<img src="images/M3currentcompanyprofile-1.png" />
+<img src="images/M3currentcompanyprofile-2.png" />
+* Include company basic information
+* User Company Profile
+* Include Open positions for the company
+* REcommended Students
+* Link to edit page
+
+Edit Company Page:
+<img src="images/M3editcurrentcompanypage-1.png" />
+<img src="images/M3editcurrentcompanyprofile-2.png" />
+* Edit company basic information
+* Edit, add, or remove positions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Deployment
