@@ -272,6 +272,7 @@ Admin Page:
 * [Vercel](https://corponector.vercel.app/)
 
 ## Review and Feedbacks
+
 * Oscar Tio
 <img src="images/OscarFeedback.png"/>
 
@@ -280,6 +281,9 @@ Admin Page:
 
 * Mark Shin
 <img src="images/MarkFeedback.jpg"/>
+
+* Kaitlyn
+<img src="images/feedback_k.jpg"/>
 
 
 
