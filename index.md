@@ -260,20 +260,13 @@ Edit Company Page:
 * Edit company basic information
 * Edit, add, or remove positions
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Admin Page:
+<img src="images/M3Adminpage-1.png" />
+<img src="images/M3Adminpage-2.png" />
+* Change the Role of a user to Admin or Student or Company
+* Can remove accounts
+* Can remove Positions
+* Includes the number of accounts and job positions
 
 ## Deployment
 * [Vercel](https://corponector.vercel.app/)
